@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <!-- Growing brand circular badge #2b3785 -->
+  <circle cx="100" cy="100" r="98" fill="#2b3785" />
+  
+  <!-- Stylized G glyph matching the exact logo -->
+  <path
+    d="M 148 56
+       C 136 40 119 32 100 32
+       C 62 32 32 62 32 100
+       C 32 138 62 168 100 168
+       C 138 168 165 142 172 106
+       L 172 98
+       L 94 98
+       L 132 118
+       C 124 130 112 138 100 138
+       C 79 138 62 121 62 100
+       C 62 79 79 62 100 62
+       C 114 62 127 69 135 80
+       Z"
+    fill="#FFFFFF"
+  />
+</svg>
