@@ -144,11 +144,13 @@ const MarketingPage: React.FC = () => {
               </div>
 
               {/* Right Column: Smartphone Graphic */}
-              <div className="flex w-full min-w-0 max-w-full items-center justify-center overflow-hidden animate-fade-in-right">
-                <div className="flex w-full max-w-[420px] min-w-0 items-center justify-center">
-                  <SmartphoneGraphic />
-                </div>
-              </div>
+             
+{/* Right Column: Smartphone Graphic */}
+<div className="relative flex w-full min-w-0 items-center justify-center overflow-visible animate-fade-in-right">
+  <div className="relative flex w-full min-w-0 items-center justify-center overflow-visible">
+    <SmartphoneGraphic />
+  </div>
+</div>
 
             </div>
           </div>
